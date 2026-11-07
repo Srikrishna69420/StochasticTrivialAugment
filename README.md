@@ -16,7 +16,6 @@ python -m pip install -r requirements.txt
 jupyter notebook StochasticTrivialAugment.ipynb
 ```
 
-A CUDA-capable GPU is recommended.
 
 ## Layout
 
