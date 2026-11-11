@@ -29,5 +29,5 @@ The notebook samples a number of operations (currently from one or two), samples
 
 ## Data and results
 
-The experiment uses CIFAR-10 downloaded by torchvision into `./data`. The notebook contains its reported training observations. 
+The experiment uses CIFAR-10 downloaded by torchvision into `./data`. The report contains detailed analysis and all results obtained through this experiment. 
 
