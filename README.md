@@ -1,6 +1,6 @@
 # Stochastic TrivialAugment
 
-A research experiment that modifies TrivialAugment by sampling the number of augmentation operations per image rather than always applying exactly one operation. The notebook describes the proposed variant and evaluates it with a CIFAR-10 / WideResNet training pipeline.
+A research experiment that modifies TrivialAugment by sampling the number of augmentation operations per image and magnitudes rather than always applying exactly one operation. The notebook describes the proposed variant and evaluates it with a CIFAR-10 / WideResNet training pipeline.
 
 ## Quick start
 
